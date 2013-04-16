@@ -25,7 +25,7 @@
 
     
     // 問1
-    _proverbs = [NSArray arrayWithObjects:@"石の上にも三年", @"仏の顔も三度まで", @"転ばぬ先の杖", @"光陰矢のごとし", @"急がば回れ", @"飼い犬に手を噛まれる",nil];
+    _proverbs = [NSArray arrayWithObjects:@"石の上にも三年", @"仏の顔も三度まで", @"転ばぬ先の杖", @"光陰矢のごとし", @"急がば回れ", @"飼い犬に手を噛まれる",@"猿も木から落ちる",nil];
     
     // 問2
     int random_number;
